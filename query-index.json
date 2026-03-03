@@ -1,0 +1,16 @@
+{
+  "indices": [
+    {
+      "name": "pages",
+      "include": [
+        "/content/test/**"
+      ],
+      "properties": [
+        "path",
+        "title",
+        "navigationTitle",
+        "parentPath"
+      ]
+    }
+  ]
+}
